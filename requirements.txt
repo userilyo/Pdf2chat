@@ -1,6 +1,5 @@
-unstructured
-tiktoken
 openai
+tiktoken
 langchain==0.0.154
 PyPDF2==3.0.1
 python-dotenv==1.0.0
